@@ -20,4 +20,4 @@
 - `python deta.py`
 
 
- ___This Tools is Paid___</br>
+ ___This  Tool is Free___</br>
