@@ -15,7 +15,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf GROUP-EXTRACTOR`
-- `git clone --depth=1 https://github.com/GWTBD/GROUP-EXTRACTOR.git`
+- `git clone --depth=1 https://github.com/Tuhincpait/CPAST.git
 - `cd GROUP-EXTRACTOR`
 - `python deta.py`
 
