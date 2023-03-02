@@ -1,6 +1,6 @@
-<h1 align="center"> [Nasir Ahmed]</h1>
+<h1 align="center"> [Shahed Tuhin]</h1>
 
-<h2 align="center">  PAID TOOL </h2>
+<h2 align="center">  FREE TOOL </h2>
 
 
 ## <b>installation</b>
